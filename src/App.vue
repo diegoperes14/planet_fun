@@ -10,7 +10,7 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          src="https://cdn-icons-png.flaticon.com/512/824/824593.png"
+          src="https://img.icons8.com/cute-clipart/344/hentai-discord.png"
           transition="scale-transition"
           width="40"
         />
@@ -20,7 +20,7 @@
           class="shrink mt-1 hidden-sm-and-down"
           contain
           min-width="100"
-          src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg"
+          src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/3bbc8b8ac2f0e75cafa24ec9b9530352.png"
           width="100"
         />
       </div>
