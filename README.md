@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # gerenciador_dentista
 Projeto web.
 =======
