@@ -2,7 +2,6 @@
 # gerenciador_dentista
 Projeto web.
 =======
-# hello-world, Olá mundo
 
 ## Project setup
 ```
