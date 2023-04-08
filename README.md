@@ -1,6 +1,5 @@
 
-# gerenciador_dentista
-Projeto web.
+# Projeto web.
 =======
 
 ## Project setup
